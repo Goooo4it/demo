@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/someproject/__init__.py
+src/someproject/predictor.py
+src/someproject.egg-info/PKG-INFO
+src/someproject.egg-info/SOURCES.txt
+src/someproject.egg-info/dependency_links.txt
+src/someproject.egg-info/requires.txt
+src/someproject.egg-info/top_level.txt
+tests/test_collect.py
