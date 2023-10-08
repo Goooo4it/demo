@@ -1,0 +1,4 @@
+*.pickle
+*.swp
+.venv
+__pycache__
